@@ -2,6 +2,6 @@
 
 this is a readme
 
-yes, yes it is!
+but is it really?
 
 edit this inline and then open a pull request
